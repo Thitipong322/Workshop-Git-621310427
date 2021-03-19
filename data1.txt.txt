@@ -1,1 +1,3 @@
 Name: Thitipong Sittiprasert
+Weight (kg.): 63.5
+Height (cm.): 168
